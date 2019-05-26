@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855923716474",
+    "firebase_url": "https://bookin-3bb7a.firebaseio.com",
+    "project_id": "bookin-3bb7a",
+    "storage_bucket": "bookin-3bb7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855923716474:android:d0c3da80ba45260c",
+        "android_client_info": {
+          "package_name": "com.example.bookin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855923716474-30jcbrag6mdkf4d1secsmp748eleikat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookin",
+            "certificate_hash": "5e1452d5bf5b16fc6465d7a545a9131b7e4b815a"
+          }
+        },
+        {
+          "client_id": "855923716474-4v31phgj0v511bkoqv6poqv0fjoomfdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt4uoSSTCkagBCmVdkxycLlf8S00I2RWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855923716474-4v31phgj0v511bkoqv6poqv0fjoomfdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
