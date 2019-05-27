@@ -18,4 +18,16 @@
             app:titleTextColor="@color/colorWhite"/>
     </android.support.design.widget.AppBarLayout>
 
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="android.support.design.widget.AppBarLayout$ScrollingViewBehavior"
+        android:fillViewport="true"
+        android:fitsSystemWindows="true">
+        <android.support.v7.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/hotels_recycler_view"/>
+    </android.support.v4.widget.NestedScrollView>
+
 </android.support.design.widget.CoordinatorLayout>
